@@ -185,6 +185,12 @@ AI systems and agentic workflows will increasingly assist engineers in incident 
 
 ---
 
+## Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/sveerabathini/sveerabathini/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## Connect
 
 Portfolio  
