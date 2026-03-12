@@ -1,90 +1,91 @@
-Sai Krishna Veerabathini
+# Sai Krishna Veerabathini
 
-AI Infrastructure Engineer
+AI Infrastructure Engineer  
 Platform Engineering • Cloud Automation • AI for Operations
 
-About Me
+---
+
+## About Me
 
 I design and build scalable cloud platforms, Kubernetes infrastructure, and automation systems for modern engineering teams.
 
 My work focuses on platform engineering, reusable infrastructure patterns, and operational automation across multi-cloud environments. I am particularly interested in exploring how AI systems can assist infrastructure and operations teams by reducing manual work, improving incident response, and enabling intelligent automation.
 
-Focus Areas
+---
 
-• Platform Engineering
-• Kubernetes Infrastructure
-• Cloud Automation
-• Infrastructure as Code
-• DevOps and CI/CD Systems
-• AI for Infrastructure and Operations
+## Focus Areas
 
-Featured Work
-Reusable EKS Platform Components
+- Platform Engineering  
+- Kubernetes Infrastructure  
+- Cloud Automation  
+- Infrastructure as Code  
+- DevOps & CI/CD Systems  
+- AI for Infrastructure and Operations  
 
+---
+
+## Featured Work
+
+### Reusable EKS Platform Components
 Standardized infrastructure modules for provisioning production-ready Kubernetes clusters using reusable infrastructure patterns.
 
-DevOps-as-a-Service Modules
-
+### DevOps-as-a-Service Modules
 Infrastructure automation modules designed to accelerate environment provisioning and improve operational consistency.
 
-AI-Powered DNS Automation
-
+### AI-Powered DNS Automation
 Automation workflows designed to handle infrastructure change requests through intelligent processing and automated execution.
 
-FinOps Waste Detection Agent
-
+### FinOps Waste Detection Agent
 AI-assisted system designed to detect idle cloud resources, highlight cost anomalies, and support cloud cost optimization.
 
-AI Infrastructure Lab
+---
 
-I actively explore how AI can augment infrastructure and operations workflows.
+## AI Infrastructure Lab
 
-Current areas of experimentation include:
+Current exploration areas:
 
-• Incident triage automation
-• Infrastructure knowledge assistants using RAG
-• Kubernetes troubleshooting copilots
-• Cloud waste detection and cost intelligence
-• AI-driven operational automation workflows
+- Incident triage automation  
+- Infrastructure knowledge assistants (RAG)  
+- Kubernetes troubleshooting copilots  
+- Cloud cost optimization agents  
+- AI-driven operational automation workflows  
 
-Technologies
-Cloud Platforms
+---
 
-AWS
-Azure
-GCP
+## Tech Stack
 
-Containers and Orchestration
+### Cloud Platforms
+AWS • Azure • GCP
 
-Kubernetes
-Docker
-Helm
+### Containers & Orchestration
+Kubernetes • Docker • Helm
 
-Infrastructure as Code
+### Infrastructure as Code
+Pulumi • Terraform • CloudFormation
 
-Pulumi
-Terraform
-CloudFormation
+### CI/CD
+GitHub Actions • Jenkins • Tekton
 
-CI/CD and Automation
+### AI Systems
+LLMs • RAG • Agentic Workflows
 
-GitHub Actions
-Jenkins
-Tekton
+---
 
-AI Systems
+## GitHub Stats
 
-Large Language Models
-Retrieval Augmented Generation
-Agentic Workflows
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sveerabathini&show_icons=true&theme=tokyonight)
 
-Connect
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sveerabathini&layout=compact&theme=tokyonight)
 
-Portfolio
-https://saikrishna.veerabathini.ai
+---
 
-LinkedIn
-https://www.linkedin.com/in/sai-krishna-veerabathini-b0393340
+## Connect
 
-GitHub
+Portfolio  
+https://saikrishna.veerabathini.ai  
+
+LinkedIn  
+https://www.linkedin.com/in/sai-krishna-veerabathini-b0393340  
+
+GitHub  
 https://github.com/sveerabathini
