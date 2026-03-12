@@ -39,15 +39,27 @@ My work focuses on platform engineering, reusable infrastructure patterns, and o
 
 ## AI Infrastructure Lab
 
-I actively explore how AI can augment infrastructure and operations workflows.
+I actively explore how **AI systems can augment infrastructure and operations workflows**.  
+This lab is where I experiment with **agentic automation, infrastructure copilots, and intelligent operational tooling.**
 
-Current areas of experimentation include:
+### Current Experiments
 
-- Incident triage automation  
-- Infrastructure knowledge assistants using RAG  
-- Kubernetes troubleshooting copilots  
-- Cloud waste detection and cost intelligence  
-- AI-driven operational automation workflows  
+| Project | Description |
+|-------|-------------|
+| Incident Triage Agent | AI assistant that analyzes alerts, logs, and incidents to suggest remediation steps |
+| Infrastructure Knowledge Assistant | RAG-based system for querying infrastructure documentation and operational runbooks |
+| Kubernetes Troubleshooting Copilot | AI system that assists engineers in diagnosing Kubernetes issues |
+| Cloud Waste Detection Agent | AI-powered analysis of cloud usage to identify idle resources and cost optimization opportunities |
+| AI DNS Automation | Intelligent workflow automation for handling DNS change requests |
+
+---
+
+### Technologies Used
+
+![Kubiya](https://img.shields.io/badge/Kubiya-AI%20Automation-blueviolet?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20Automation-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-darkgreen?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-darkblue?style=for-the-badge)
 
 ---
 
