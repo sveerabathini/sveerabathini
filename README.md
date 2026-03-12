@@ -175,7 +175,7 @@ AI systems and agentic workflows will increasingly assist engineers in incident 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sveerabathini&show_icons=true&theme=tokyonight)
 
