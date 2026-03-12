@@ -72,16 +72,66 @@ Large Language Models • Retrieval Augmented Generation • Agentic Workflows
 
 ## Tech Stack
 
+Tools and platforms I use to design and operate scalable cloud platforms.
+
+---
+
+### Cloud Platforms
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 </p>
 
+---
+
+### Containers & Orchestration
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+---
+
+### Infrastructure as Code
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" width="40"/>
+</p>
+
+Terragrunt • CloudFormation
+
+---
+
+### CI/CD & DevOps
+Azure DevOps • GitHub Actions • Jenkins
+
+---
+
+### Observability
+Datadog • Grafana • Prometheus
+
+---
+
+### Automation & Configuration Management
+Ansible • Chef • Rundeck
+
+---
+
+### DNS & Networking
+UltraDNS
+
+---
+
+### AI for Operations
+Kubiya • AI Agents • LLM Workflows • RAG-based Systems
+
+---
+
+### Operating Systems
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 ---
 
 ## GitHub Stats
