@@ -150,6 +150,30 @@ Large Language Models • Retrieval Augmented Generation • Agentic Workflows
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## Infrastructure Philosophy
+
+I approach infrastructure and platform engineering as a systems design problem rather than a tooling problem.
+
+My focus is on building platforms that reduce operational friction, improve reliability, and enable engineering teams to move faster with confidence.
+
+Core principles I follow:
+
+• **Infrastructure as a Product**  
+Platforms should be designed with clear interfaces, reusable components, and strong developer experience.
+
+• **Automation Over Manual Operations**  
+Operational toil should be eliminated through automation, intelligent workflows, and self-service platforms.
+
+• **Observability by Design**  
+Systems must provide clear signals through metrics, logs, and traces to enable rapid diagnosis and continuous improvement.
+
+• **Scalable Platform Patterns**  
+Reusable infrastructure modules and standardized architectures allow teams to build faster while maintaining consistency.
+
+• **AI-Augmented Operations**  
+AI systems and agentic workflows will increasingly assist engineers in incident analysis, operational troubleshooting, and infrastructure management.
+
+---
 
 ## GitHub Stats
 
