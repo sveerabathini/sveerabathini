@@ -181,6 +181,8 @@ AI systems and agentic workflows will increasingly assist engineers in incident 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sveerabathini&layout=compact&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sveerabathini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 ---
 
 ## Connect
