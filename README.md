@@ -72,66 +72,71 @@ Large Language Models • Retrieval Augmented Generation • Agentic Workflows
 
 ## Tech Stack
 
-Tools and platforms I use to design and operate scalable cloud platforms.
-
----
-
 ### Cloud Platforms
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40"/>
-</p>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
 ### Containers & Orchestration
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-</p>
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ### Infrastructure as Code
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pulumi/pulumi-original.svg" width="40"/>
-</p>
 
-Terragrunt • CloudFormation
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-4C4C4C?style=for-the-badge)
 
 ---
 
-### CI/CD & DevOps
-Azure DevOps • GitHub Actions • Jenkins
+### CI/CD
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ### Observability
-Datadog • Grafana • Prometheus
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
-### Automation & Configuration Management
-Ansible • Chef • Rundeck
+### Automation
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge)
+![Rundeck](https://img.shields.io/badge/Rundeck-F73F2E?style=for-the-badge)
 
 ---
 
-### DNS & Networking
-UltraDNS
+### Networking
+
+![UltraDNS](https://img.shields.io/badge/UltraDNS-005EB8?style=for-the-badge)
 
 ---
 
 ### AI for Operations
-Kubiya • AI Agents • LLM Workflows • RAG-based Systems
+
+![Kubiya](https://img.shields.io/badge/Kubiya-AI%20Automation-blueviolet?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Agentic%20Automation-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-darkgreen?style=for-the-badge)
 
 ---
 
 ### Operating Systems
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## GitHub Stats
