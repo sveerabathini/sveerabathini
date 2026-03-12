@@ -19,61 +19,58 @@ My work focuses on platform engineering, reusable infrastructure patterns, and o
 - Kubernetes Infrastructure  
 - Cloud Automation  
 - Infrastructure as Code  
-- DevOps & CI/CD Systems  
+- DevOps and CI/CD Systems  
 - AI for Infrastructure and Operations  
 
 ---
 
 ## Featured Work
 
-### Reusable EKS Platform Components
-Standardized infrastructure modules for provisioning production-ready Kubernetes clusters using reusable infrastructure patterns.
-
-### DevOps-as-a-Service Modules
-Infrastructure automation modules designed to accelerate environment provisioning and improve operational consistency.
-
-### AI-Powered DNS Automation
-Automation workflows designed to handle infrastructure change requests through intelligent processing and automated execution.
-
-### FinOps Waste Detection Agent
-AI-assisted system designed to detect idle cloud resources, highlight cost anomalies, and support cloud cost optimization.
+| Project | Description |
+|-------|-------------|
+| Reusable EKS Platform Components | Standardized infrastructure modules for provisioning production-ready Kubernetes clusters using reusable infrastructure patterns |
+| DevOps-as-a-Service Modules | Infrastructure automation modules designed to accelerate environment provisioning and improve operational consistency |
+| AI-Powered DNS Automation | Automation workflows designed to handle infrastructure change requests through intelligent processing and automated execution |
+| FinOps Waste Detection Agent | AI-assisted system designed to detect idle cloud resources and support cloud cost optimization |
 
 ---
 
 ## AI Infrastructure Lab
 
-Current exploration areas:
+I actively explore how AI can augment infrastructure and operations workflows.
+
+Current areas of experimentation include:
 
 - Incident triage automation  
-- Infrastructure knowledge assistants (RAG)  
+- Infrastructure knowledge assistants using RAG  
 - Kubernetes troubleshooting copilots  
-- Cloud cost optimization agents  
+- Cloud waste detection and cost intelligence  
 - AI-driven operational automation workflows  
 
 ---
 
-## Tech Stack
+## Technologies
 
 ### Cloud Platforms
 AWS • Azure • GCP
 
-### Containers & Orchestration
+### Containers and Orchestration
 Kubernetes • Docker • Helm
 
 ### Infrastructure as Code
 Pulumi • Terraform • CloudFormation
 
-### CI/CD
+### CI/CD and Automation
 GitHub Actions • Jenkins • Tekton
 
 ### AI Systems
-LLMs • RAG • Agentic Workflows
+Large Language Models • Retrieval Augmented Generation • Agentic Workflows
 
 ---
 
 ## GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sveerabathini&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sveerabathini&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sveerabathini&layout=compact&theme=tokyonight)
 
